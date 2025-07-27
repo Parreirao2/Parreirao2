@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Diogo Parreirao 👋
 
-<!--
-**Parreirao2/Parreirao2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Data Engineer Consultant | Automation Enthusiast | Lifelong Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate Data Engineer Senior Consultant with a love for learning new things and automating everything I can. Whether it's optimizing data pipelines or tinkering with new technologies, I'm always looking for ways to work smarter and empower teams with data-driven solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, DAX, M, SQL
+- **Big Data & Analytics:** PySpark, Power BI
+- **Other Tools:** Data pipeline orchestration, automation scripts, and more!
+
+---
+
+## 🌟 Featured Projects
+
+- **[Power-BI-Tools](https://github.com/Parreirao2/Power-BI-Tools)**  
+  Tools I've developed to use alongside Power BI.  
+  - Language: HTML  
+  - Stars: 6  
+  - Description: Some tools I've made to use alongside Power BI.  
+  - [View on GitHub](https://github.com/Parreirao2/Power-BI-Tools)
+
+- **[VPet](https://github.com/Parreirao2/VPet)**  
+  A virtual pet (VPet) written in Python to run on Windows.  
+  - Language: Python  
+  - License: MIT  
+  - Description: A VPet written in Python to run on windows.  
+  - [View on GitHub](https://github.com/Parreirao2/VPet)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/diogo-parreirao-030006173?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+## ⚡ Fun Fact
+
+I love learning new things and always try to automate everything in my life!
+
+---
+
+> “Automate the boring stuff, so you can focus on what matters.” 🚀

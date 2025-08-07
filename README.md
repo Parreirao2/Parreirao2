@@ -27,12 +27,9 @@ I'm a passionate Data Engineer Senior Consultant with a love for learning new th
   - Description: Some tools I've made to use alongside Power BI.  
   - [View on GitHub](https://github.com/Parreirao2/Power-BI-Tools)
 
-- **[VPet](https://github.com/Parreirao2/VPet)**  
-  A virtual pet (VPet) written in Python to run on Windows.  
-  - Language: Python  
-  - License: MIT  
-  - Description: A VPet written in Python to run on windows.  
-  - [View on GitHub](https://github.com/Parreirao2/VPet)
+- **[VPet]
+  - THIS REPOSITORY WAS MADE PRIVATE DUE TO REDDIT COMPLAINTS. IF YOU WANT TO TRY OUT THE APP GO TO [Itch IO]([https://github.com/Parreirao2/Power-BI-Tools]).
+  - NO MORE FREEBIES
 
 ---
 

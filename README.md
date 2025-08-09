@@ -22,7 +22,7 @@ I'm a passionate Data Engineer Senior Consultant with a love for learning new th
 
 - **[Power-BI-Tools](https://github.com/Parreirao2/Power-BI-Tools)**  
   Tools I've developed to use alongside Power BI.  
-  - Language: HTML  
+  - Language: Python, DAX 
   - Stars: 6  
   - Description: Some tools I've made to use alongside Power BI.  
   - [View on GitHub](https://github.com/Parreirao2/Power-BI-Tools)

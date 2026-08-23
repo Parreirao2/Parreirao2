@@ -1,12 +1,12 @@
 # Hi, I'm Diogo Parreirao 👋
 
-**Senior Data Engineer Consultant | Automation Enthusiast | Lifelong Learner**
+**AI Team Lead | Automation Enthusiast | Lifelong Learner**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate Data Engineer Senior Consultant with a love for learning new things and automating everything I can. Whether it's optimizing data pipelines or tinkering with new technologies, I'm always looking for ways to work smarter and empower teams with data-driven solutions.
+I'm a passionate AI Team Lead with a love for learning new things and automating everything I can. Whether it's optimizing data pipelines or tinkering with new technologies, I'm always looking for ways to work smarter and empower teams with data-driven solutions.
 
 ---
 

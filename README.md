@@ -27,10 +27,6 @@ I'm a passionate AI Team Lead with a love for learning new things and automating
   - Description: Some tools I've made to use alongside Power BI.  
   - [View on GitHub](https://github.com/Parreirao2/Power-BI-Tools)
 
-- **[VPet]
-  - THIS REPOSITORY WAS MADE PRIVATE DUE TO REDDIT COMPLAINTS. IF YOU WANT TO TRY OUT THE APP GO TO [Itch IO]([https://github.com/Parreirao2/Power-BI-Tools]).
-  - NO MORE FREEBIES
-
 ---
 
 ## 🌐 Connect with Me

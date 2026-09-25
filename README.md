@@ -26,7 +26,8 @@ I'm a passionate AI Developer with a love for learning new things and automating
   - Stars: 6  
   - Description: Some tools I've made to use alongside Power BI.  
   - [View on GitHub](https://github.com/Parreirao2/Power-BI-Tools)
-- **[SteamDeck Non-Steam Cleaner](https://github.com/Parreirao2/SteamDeck-Non-Steam-Cleaner)
+    
+- **[SteamDeck Non-Steam Cleaner](https://github.com/Parreirao2/SteamDeck-Non-Steam-Cleaner)**
   A very optimized script-based app made for linux with the goal of cleaning untracked remnants of games and apps.
 ---
 
